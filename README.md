@@ -9,4 +9,4 @@ By the end of the project, I will have demonstrated skills in setting up a websi
 
 Self-reflection and conclusion: 
 
-This project was an excellent opportunity to ...
+This project was an excellent opportunity to practice asynchronous coding and API's call and data extraction, manipulation.
